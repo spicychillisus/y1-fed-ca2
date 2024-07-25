@@ -1,0 +1,12 @@
+
+.corners {
+    border-radius: 15px;
+}
+
+.city-background {
+    background-image: url(../photos/backdrop.jpg);
+}
+
+.custom-corners {
+    border-radius: 20px;
+}

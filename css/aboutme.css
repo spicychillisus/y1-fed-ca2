@@ -1,0 +1,26 @@
+
+.custom-colour {
+    background-color: rgb(223, 96, 96);
+}
+
+.custom-colour-alt {
+    background-color: rgb(235, 217, 194);
+}
+
+.custom-corners {
+    border-radius: 20px;
+}
+
+.custom-size {
+    width: 50%;
+}
+
+.cbss-photo-size {
+    width: 60%;
+}
+
+.icons {
+    width: 2%;
+}
+
+

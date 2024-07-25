@@ -1,0 +1,31 @@
+
+.fade-in-text {
+    animation: fadeIn 3s;
+}
+
+.fade-in-text-1 {
+    animation: fadeIn 7s;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+/* ------------------------------------------- */
+
+.animate-text h1 {
+    animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
